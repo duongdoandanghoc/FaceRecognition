@@ -1,0 +1,45 @@
+Tài liệu chính: https://how2electronics.com/face-recognition-based-attendance-system-using-esp32-cam/
+https://www.youtube.com/watch?v=sz25xxF_AVE
+
+
+
+
+Những thứ liên quan:
+https://www.engineersgarage.com/arduino-esp32-cam-face-recognition/
+https://how2electronics.com/esp32-cam-based-face-eyes-recognition-system/
+https://ijisrt.com/assets/upload/files/IJISRT23OCT1586.pdf
+https://www.academia.edu/120324309/%C4%90i%E1%BB%83m_Danh_B%E1%BA%B1ng_M%E1%BA%B7t_Ng%C6%B0%E1%BB%9Di_V%E1%BB%9Bi_%C4%90%E1%BA%B7c_Tr%C6%B0ng_Gist_V%C3%A0_M%C3%A1y_H%E1%BB%8Dc_V%C3%A9ct%C6%A1_H%E1%BB%97_Tr%E1%BB%A3
+https://1tailieu.com/document/diem-danh-sinh-vien-su-dung-cong-nghe-rfid-va-nhan-dien-khuon-mat-2665041.html
+https://www.yiboard.com/thread-1512-1-1.html
+
+
+https://github.com/onkar69483/AttendRx-Face-Recognition-Attendance-System
+
+
+
+
+
+
+Từ khóa:
+https://coccoc.com/search?query=Smart+Facial+Recognition+Attendance+System+Using+ESP32+Cam
+esp32-dl
+使用esp32cam进行人脸识别
+
+Hướng dẫn làm bài tập lớn:
+https://husteduvn-my.sharepoint.com/:p:/r/personal/dung_hanhuy_hust_edu_vn/_layouts/15/Doc.aspx?sourcedoc=%7B90B3DF5C-A52D-487A-94AD-0C454355D399%7D&file=TermProject.ppt&action=edit&mobileredirect=true
+
+Mẫu BTL:
+https://husteduvn-my.sharepoint.com/:w:/r/personal/dung_hanhuy_hust_edu_vn/_layouts/15/Doc.aspx?sourcedoc=%7B083CA4DB-1B77-4C61-871A-2C4E318C16FC%7D&file=02_Project_LFRobot_V03%20-%20Thanh%20B%C3%ACnh.docx&action=default&mobileredirect=true
+
+
+Tham khảo khóa trước:
+https://docs.google.com/document/d/1HyKQcpmots43kiERD1CclZnifxmJ2niB/edit
+https://husteduvn-my.sharepoint.com/:x:/g/personal/dung_hanhuy_hust_edu_vn/Ed5OTtxEr0JLhJsWVzRgSa0B1Km_MkAlDiTb7Es4eoAQ_w?e=JXQ7m2&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDA5MTIyMTMxOCJ9
+
+https://github.com/espressif/esp-dl/tree/master/.github/workflows
+
+https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-extension
+
+
+
+tôi đang có một modun esp32 cam ai thinker, bạn hãy viết cho tôi chương trình cho vi điều khiển esp32, có chức năng kết nối wifi và khởi tạo camera, thiết lập một camera ESP32 để kết nối với một mạng Wi-Fi và thiết lập một server HTTP. Server này có thể nhận và xử lý các yêu cầu từ client (có thể là trình duyệt web hoặc ứng dụng), cho phép người dùng tương tác với camera, như xem hình ảnh hoặc video trực tiếp từ camera ESP32. Một tệp này định nghĩa một số khai báo và chức năng để quản lý một camera Wi-Fi, khai báo các biến và hàm cần thiết để hoạt động với camera trên ESP32 và thiết lập server HTTP, tệp này định nghĩa các thành phần mà có thể được sử dụng trong các tệp nguồn khác để quản lý camera và xử lý các yêu cầu web, cho phép người dùng tương tác với camera thông qua một giao diện web. Một chương trình này thiết lập web server để phục vụ các yêu cầu HTTP từ client, cho phép người dùng xem hình ảnh từ camera ESP32, chương trình này thiết lập một web server trên ESP32, cho phép người dùng tương tác và xem video từ camera. Nó cung cấp các chức năng để chụp ảnh tĩnh ở nhiều định dạng khác nhau, phát video trực tiếp, và hiển thị một giao diện web để người dùng có thể lựa chọn các độ phân giải và định dạng mong muốn.
