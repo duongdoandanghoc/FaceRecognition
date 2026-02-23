@@ -74,7 +74,7 @@ pip install opencv-python numpy face_recognition requests
 3.  **Chuẩn bị ảnh mẫu:**
 
     *   Thêm các hình ảnh của những người bạn muốn nhận diện vào thư mục `FACEID_ESP32CAM/Images_Basic/`.
-    *   Đổi tên tệp ảnh thành tên của người tương ứng (ví dụ: `ElonMusk.jpg`, `SteveJobs.png`).
+    *   Đổi tên tệp ảnh thành tên của người tương ứng (ví dụ: `messi.jpg`, `ronaldo.png`).
 
 ## Cách sử dụng
 
@@ -111,10 +111,3 @@ pip install opencv-python numpy face_recognition requests
 
 Mọi đóng góp để cải thiện dự án đều được hoan nghênh. Nếu bạn có ý tưởng, phát hiện lỗi, hoặc muốn thêm tính năng mới, vui lòng tạo một **Issue** hoặc gửi một **Pull Request**.
 
-## Giấy phép
-
-Dự án này được phát hành dưới Giấy phép MIT. Vui lòng xem tệp [LICENSE](LICENSE) để biết thêm chi tiết.
-
----
-
-*Tài liệu này được tạo bởi **Manus AI** vào ngày 23 tháng 2 năm 2026.*
