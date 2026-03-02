@@ -1,6 +1,7 @@
 # Ứng dụng Nhận diện Khuôn mặt với ESP32-CAM và Python
 
 ## Giới thiệu
+Dự án đã được hoàn thành cả phần cứng và phần mềm từ 2025, repo này để công khai mã nguồn
 
 Dự án này xây dựng một hệ thống nhận diện khuôn mặt thời gian thực, sử dụng thư viện `face_recognition` của Python và được tích hợp với camera ESP32-CAM. Hệ thống có khả năng thu thập hình ảnh, xác định các cá nhân đã được huấn luyện trước và tự động ghi lại sự hiện diện của họ, phù hợp cho các ứng dụng như điểm danh tự động hoặc giám sát an ninh. Ngoài ra, dự án cũng hỗ trợ sử dụng webcam của máy tính như một nguồn video đầu vào thay thế.
 
